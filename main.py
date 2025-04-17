@@ -1,5 +1,6 @@
 from tracker import *
 
+
 def print_add_expense():
     '''
     Запрашивает amount - сумму нового расхода, category - категорию расхода, description - описание расхода.
